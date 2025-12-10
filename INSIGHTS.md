@@ -1,4 +1,4 @@
-<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/23928201-c746-4fbe-86bb-0266d6bef18c" /># Passenger Journey Insights
+# Passenger Journey Insights
   This file summarizes key insights derived from the public transport passenger journey analysis.
 
 ## 1. Passenger Trends Vary Across Services
