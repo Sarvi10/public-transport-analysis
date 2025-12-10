@@ -1,4 +1,4 @@
-# Passenger Journey Insights
+<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/23928201-c746-4fbe-86bb-0266d6bef18c" /># Passenger Journey Insights
   This file summarizes key insights derived from the public transport passenger journey analysis.
 
 ## 1. Passenger Trends Vary Across Services
@@ -6,14 +6,14 @@
 
 
 ![Multi-Line Trends]
-(<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/1c77fcda-453c-4297-9985-04dcf20d1dd0" />
-)
+(<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/0f696e39-c4b0-4989-8d51-977a88e7e4b5" />)
 
 ## 2. Daily Growth Rates Are Correlated
   Increases in one service often coincide with growth in others, as shown by the heatmap of daily growth rates.
 
 ![Daily Growth Heatmap]
-(<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/c2313a14-d752-45cc-a654-d632920f42c9" />)
+(<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/8a696c50-16a0-46a6-aa65-13f828ddf972" />
+)
 
 ## 3. Overall Traffic Index Shows Seasonal Patterns
   Peaks and troughs in the traffic index suggest periodic fluctuations likely driven by weekdays, weekends, or seasonal factors.
