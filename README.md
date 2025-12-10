@@ -3,7 +3,7 @@
    - This project analyzes daily public transport passenger journeys using Python, Pandas and Matplotlib.  
    - It includes data cleaning, feature engineering, and multiple visualization techniques.
 
-## 🔍 Project Highlights
+## Project Highlights
 - Converted Excel dataset to CSV using Python
 - Automatically detected date column and cleaned missing values
 - Applied intelligent forward/backward fill strategies
