@@ -38,7 +38,7 @@ Detailed insights are available in [`INSIGHTS.md`](INSIGHTS.md), including key o
 ---
 
 ## 7-Day Forecast
-Short-term forecasts for the next 7 days are available in [`FORECAST.md`](FORECAST.md), along with plots and forecasted values for each service type.
+Short-term forecasts for the next 7 days are available in [`Forecast.md`](Forecast.md), along with plots and forecasted values for each service type.
 
 ---
 
