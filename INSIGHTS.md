@@ -12,19 +12,24 @@
   Increases in one service often coincide with growth in others, as shown by the heatmap of daily growth rates.
 
 ![Daily Growth Heatmap]
-(<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/8a696c50-16a0-46a6-aa65-13f828ddf972" />
+(<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/6977e744-3f4c-4b03-8712-61f4bde47801" />
+
 )
 
 ## 3. Overall Traffic Index Shows Seasonal Patterns
   Peaks and troughs in the traffic index suggest periodic fluctuations likely driven by weekdays, weekends, or seasonal factors.
 
 ![Traffic Index]
-(<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/661d588e-4759-4fd3-b28e-1125889c2b21" />)
+(<img width="1105" height="544" alt="image" src="https://github.com/user-attachments/assets/3a277cc9-9aac-4ce5-ae41-e6bd621f5225" />
+)
 
 ## 4. Distribution of Passenger Counts is Skewed
   Some services consistently carry higher passenger volumes than others; the distribution is not uniform.
 
 ![Distribution]
+(<img width="1168" height="621" alt="image" src="https://github.com/user-attachments/assets/dde5f343-1098-4feb-8b9b-a3dbdbc78f71" />
+
+)
 (<img width="1168" height="621" alt="image" src="https://github.com/user-attachments/assets/fd142bb0-feec-44eb-ad74-3699a252de2f" />)
 
 ## 5. Daily Growth Volatility Can Inform Planning
