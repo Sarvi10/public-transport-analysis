@@ -29,5 +29,18 @@
 - Seaborn
 - Google Colab
 
+## Image of passenger trends across transport service
+
+<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/ea2ffcf8-ff7c-4822-9fa2-5d7bef99dd70" />
+
+## Image of correlation between daily growth rates
+
+<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/5a2e9851-89e3-45bd-807e-dfe751a21761" />
+
+## Image of overall public transport public index over time
+
+<img width="1105" height="544" alt="image" src="https://github.com/user-attachments/assets/b723bf95-f069-4bcf-b500-6a4d49221717" />
+
+
 ## Author
 **SARVIKA S**  
