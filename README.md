@@ -15,20 +15,20 @@ This project analyzes daily public transport passenger journeys across different
 ## Key Analysis
 
 ### Passenger Trends Across Transport Services
-![Multi-Line Trends](<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/bd8750f6-c55e-483b-9f60-b47c4305e5f6" />
-)
+[Multi-Line Trends]<img width="1183" height="621" alt="image" src="https://github.com/user-attachments/assets/3b253d0d-881d-4f99-8951-7a11dde2203c" />
+
 
 ### Correlation Between Daily Growth Rates
-![Daily Growth Heatmap](<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/67fdfaea-79c1-4859-ac3d-11d4664c9ec5" />
-)
+[Daily Growth Heatmap]<img width="896" height="674" alt="image" src="https://github.com/user-attachments/assets/8fa9644b-118a-4a23-8052-3afbadaeea23" />
+
 
 ### Overall Traffic Index Over Time
-![Traffic Index](<img width="1105" height="544" alt="image" src="https://github.com/user-attachments/assets/cf437f36-4b22-418c-b2d2-c2ac11259213" />
-)
+[Traffic Index]<img width="1105" height="544" alt="image" src="https://github.com/user-attachments/assets/dcc11bba-08b5-49f8-8af1-10019602f94a" />
+
 
 ### Distribution of Passenger Counts Across Services
-![Distribution](<img width="1168" height="621" alt="image" src="https://github.com/user-attachments/assets/f4bd933b-d769-46d8-8493-e501b64f48c6" />
-)
+[Distribution]<img width="1168" height="621" alt="image" src="https://github.com/user-attachments/assets/82daca78-7980-4874-a77a-9df215763362" />
+
 
 ---
 
